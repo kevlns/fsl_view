@@ -15,7 +15,6 @@
     <type fullname="FSL.ModList" preserve="all" />
     <type fullname="FSL.MoreModPage" preserve="all" />
     <type fullname="FSL.PopupWindow" preserve="all" />
-    <type fullname="FSL.RegisterTabContent" preserve="all" />
     <type fullname="FSL.Tip" preserve="all" />
     <type fullname="InfoCard" preserve="all" />
     <type fullname="InfoList" preserve="all" />
